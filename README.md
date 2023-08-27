@@ -41,3 +41,5 @@ Para ejecutar esta aplicación en tu dispositivo, sigue estos pasos:
 3. Luego, puedes agregar emojis arrastrándolos desde la barra de emojis en la parte inferior y moverlos libremente por la pantalla. 😀🚀
 4. Si deseas ampliar un emoji, simplemente haz doble clic sobre él. 🔍
 5. Una vez que estés satisfecho con tu creación, puedes guardar la imagen final en la galería de tu dispositivo. 💾
+
+<img src="./client/src/assets/ReactNative.png" />
